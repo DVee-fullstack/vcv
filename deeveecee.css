@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(153, 203, 248);
+}
+
+hr {
+    border-style: dotted none none;
+    height: none;
+    width: 70%;
+    border-color: rgb(246, 202, 216);
+    border-width: 5px;
+}
+
+h2 {
+    color: maroon;
+}
+
+h3 {
+    color: crimson;
+}
